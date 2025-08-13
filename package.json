@@ -1,0 +1,25 @@
+{
+  "name": "trello-to-prometheus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://pmaxhogan@github.com/pmaxhogan/trello-to-prometheus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/pmaxhogan/trello-to-prometheus/issues"
+  },
+  "homepage": "https://github.com/pmaxhogan/trello-to-prometheus#readme",
+  "dependencies": {
+    "dotenv": "^17.2.1"
+  }
+}
